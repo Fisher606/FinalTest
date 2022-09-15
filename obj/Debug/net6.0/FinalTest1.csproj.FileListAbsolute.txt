@@ -1,0 +1,15 @@
+C:\Users\Котик\Desktop\GB\FinalTest1\bin\Debug\net6.0\FinalTest1.exe
+C:\Users\Котик\Desktop\GB\FinalTest1\bin\Debug\net6.0\FinalTest1.deps.json
+C:\Users\Котик\Desktop\GB\FinalTest1\bin\Debug\net6.0\FinalTest1.runtimeconfig.json
+C:\Users\Котик\Desktop\GB\FinalTest1\bin\Debug\net6.0\FinalTest1.dll
+C:\Users\Котик\Desktop\GB\FinalTest1\bin\Debug\net6.0\FinalTest1.pdb
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\FinalTest1.csproj.AssemblyReference.cache
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\FinalTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\FinalTest1.AssemblyInfoInputs.cache
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\FinalTest1.AssemblyInfo.cs
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\FinalTest1.csproj.CoreCompileInputs.cache
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\FinalTest1.dll
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\refint\FinalTest1.dll
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\FinalTest1.pdb
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\FinalTest1.genruntimeconfig.cache
+C:\Users\Котик\Desktop\GB\FinalTest1\obj\Debug\net6.0\ref\FinalTest1.dll
